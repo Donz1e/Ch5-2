@@ -1,0 +1,4 @@
+﻿  main.c
+c:\ch5\lab2\source\main.c(59): warning C4013: 'print' 未定義; 假設 extern 傳回整數
+main.obj : error LNK2019: 無法解析的外部符號 _print 在函式 _maximum 中被參考
+C:\Ch5\Lab2\Lab2\Debug\Lab2.exe : fatal error LNK1120: 1 個無法解析的外部符號
